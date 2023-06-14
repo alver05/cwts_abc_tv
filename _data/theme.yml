@@ -90,11 +90,11 @@ navbar-background: bg-dark
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
 # Enter one of the following options below: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
-bootswatch: "yeti"
+bootswatch: "journal"
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#810084"
+text-color: "#320202"
 link-color: "#9E0B11"
 base-font-family: "Segoe UI Light"
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
