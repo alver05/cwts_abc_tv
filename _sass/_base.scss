@@ -49,6 +49,7 @@ a {
 
 /* nav bar */
 #mobile-nav-image {
+    color: #620000;
     max-height: 1.5em;
 }
 
@@ -56,12 +57,13 @@ a {
 #footer-logo {
     height: 40px;
 }
+
 #footer-credits {
     img { height: 40px; }
 }
 
 #footer-nav .nav-link.active, #footer-nav .show > .nav-link {
-    color: #fff;
+    color: #620000;
     border: solid white 1px;
     background: transparent;
   }
