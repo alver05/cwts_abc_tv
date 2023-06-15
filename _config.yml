@@ -40,10 +40,10 @@ metadata: demo-metadata
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-organization-name: "ABC TV"
+organization-name: "Dulaang UP"
 # organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: assets/img/sample-logo@2x.png
-organization-logo-nav: assets/img/sample-logo@2x.png
+organization-logo-banner: assets/img/DUP Theater Productions.png
+organization-logo-nav: assets/img/DUP Theater Productions.png
 
 
 
