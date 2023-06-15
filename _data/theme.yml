@@ -15,6 +15,14 @@ home-title-y-padding: 10em # Default is 8em
 home-banner-image-position: # Default is center
 
 ##########
+# ABOUT DUP PAGE
+about-dup-featured-image: https://upd.edu.ph/wp-content/uploads/2015/05/Dulaang-UP-2.jpg
+
+##########
+# ABOUT ABC TV
+about-abc-featured-image: https://upd.edu.ph/wp-content/uploads/2015/05/Dulaang-UP-2.jpg
+
+##########
 # ITEM PAGE
 #
 # see _data/metadata-config.csv to define the metadata fields that will display.
