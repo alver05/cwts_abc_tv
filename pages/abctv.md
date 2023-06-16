@@ -3,7 +3,7 @@ title: About ABC TV
 layout: about
 permalink: /abctv.html
 ---
-{% include feature/jumbotron.html objectid="https://upd.edu.ph/wp-content/uploads/2015/05/Dulaang-UP-2.jpg" %}
+{% include feature/image.html objectid="https://asia.olympus-imaging.com/content/000107506.jpg" %}
 
 ## About ABC TV
 
