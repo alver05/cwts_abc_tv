@@ -10,7 +10,7 @@ ABC TV is composed of five (5) members who were second-year undergraduate studen
 
 The name “ABC TV” is inspired by the first letters of the group’s surnames, which were as follows: Ayroso, Bantigue, Calixtro, Tamondong, and Versoza.
 
-##Meet the Creators!
+## Meet the Creators!
 
 {% include feature/image.html objectid="assets/img/sample people.png" %}
 
